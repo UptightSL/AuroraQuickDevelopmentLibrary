@@ -9,8 +9,10 @@
             By UptightSL
 ]]--
 
-scriptTitle = "QDL"
+scriptTitle = "QDL";
 scriptAuthor = "UptightSL"
 scriptVersion = 1
 scriptDescription = "This script is just for testing :)"
+
+--future perm for now itll stay dorment
 -- scriptPermissions = { "filesystem" }
