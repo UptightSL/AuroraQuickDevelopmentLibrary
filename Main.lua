@@ -11,7 +11,7 @@
 
 scriptTitle = "QDL";
 scriptAuthor = "UptightSL";
-scriptVersion = 2;
+scriptVersion = 3;
 scriptDescription = "This script is just for testing :)";
 scirptIcon("icon.png");
 scriptPermissions = { "kernel","profile" };
