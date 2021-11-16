@@ -1,9 +1,8 @@
-# QDL (Testing)
-Aurora Dashboard script, made for latest 0.7b1.
-# Use?
-I don't know yet!
-Hopefully it can be of use to someone.
-That can be a dev
-Or everyday user
-# Why?
-Because I can :)
+# AQDL
+Aurora Quick Development Library 
+
+NOTE THIS IS USEFUL TO NOBODY! NOT EVEN ME :)
+
+### Documentation
+
+Coming soon to a gitbook near you!
