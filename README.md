@@ -1,8 +1,12 @@
-# AQDL
-Aurora Quick Development Library 
+# Aurora Quick Development Lib  (AQDL)
+## What is AQDL?
+AQDL is a development library for Aurora Dashboard :) Note this crappy library was made by a 15 year old. :D
+## Docs
+I'll make a gitbook if this ever gets large enough (not by people using, by too many stuff added)
 
-NOTE THIS IS USEFUL TO NOBODY! NOT EVEN ME :)
+```lua
+aqdl.getNet(title, buttontext)
+```
+getNet will send the IP and MAC in a Aurora Textbox :)
 
-### Documentation
-
-Coming soon to a gitbook near you!
+## Thanks
