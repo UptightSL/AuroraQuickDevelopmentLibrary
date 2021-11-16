@@ -9,12 +9,12 @@
             By UptightSL
 ]]--
 
-scriptTitle = "QDL";
-scriptAuthor = "UptightSL";
-scriptVersion = 3;
-scriptDescription = "This script is just for testing :)";
-scirptIcon("icon.png");
-scriptPermissions = { "kernel","profile" };
+scriptTitle = "QDL"
+scriptAuthor = "UptightSL"
+scriptVersion = 3
+scriptDescription = "This script is just for testing :)"
+scirptIcon("icon.png")
+scriptPermissions = { "kernel","profile" }
 
 local gt = Profile.GetGamerTag()
 local mbtype = Kernel.GetConsoleType()
