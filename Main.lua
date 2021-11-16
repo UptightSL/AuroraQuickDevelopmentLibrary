@@ -10,9 +10,13 @@
 ]]--
 
 scriptTitle = "QDL";
-scriptAuthor = "UptightSL"
-scriptVersion = 1
-scriptDescription = "This script is just for testing :)"
+scriptAuthor = "UptightSL";
+scriptVersion = 1;
+scriptDescription = "This script is just for testing :)";
 
 --future perm for now itll stay dorment
--- scriptPermissions = { "filesystem" }
+scriptPermissions = { "kernel","profile" };
+
+local gt = Profile.GetGamerTag()
+local testscript = Kernel.GetConsoleType()
+Script.ShowMessageBox("Test","This is a simple QDL test. "..testscript.." is your console MB, and "..gt.." is your Gamertag :)","Ok!")
