@@ -1,4 +1,4 @@
-# UnNamed Aurora Dashboard Script
+# QDL (Testing)
 Aurora Dashboard script, made for latest 0.7b1.
 # Use?
 I don't know yet!
