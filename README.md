@@ -9,5 +9,5 @@ aqdl.getNet(title, buttontext)
 ```
 getNet will send the IP and MAC in a Aurora Textbox :)
 
-## Thanks
-:)
+## HALTED   
+:) This project will be haulted until winter break, I wanna try working on something else.
