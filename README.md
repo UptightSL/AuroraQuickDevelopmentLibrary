@@ -7,7 +7,11 @@ I'll make a gitbook if this ever gets large enough (not by people using, by too 
 ```lua
 aqdl.getNet(title, buttontext)
 ```
+```lua
+aqdl.noti(msg)
+```
 getNet will send the IP and MAC in a Aurora Textbox :)
+noti is a noti just shortened for use <3
 
 ## Thanks
 :)
