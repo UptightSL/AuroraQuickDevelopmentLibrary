@@ -25,3 +25,7 @@ ALSO! Thanks for checking this out.
 function aqdl.getNet(msg, buttontext)
 	Script.ShowMessageBox(msg, "Current IP and MAC: \n"..ip.."\n"..mac.."\n :)", buttontext)
 end
+
+function aqdl.noti(msg)
+    Script.ShowNotification(msg)
+end
