@@ -20,8 +20,17 @@ ALSO! Thanks for checking this out.
 
 	local ip = Aurora.GetIPAddress()
 	local mac = Aurora.GetMACAddress()
+	local temps = Aurora.GetTemperatures()
 
 
 function aqdl.getNet(msg, buttontext)
 	Script.ShowMessageBox(msg, "Current IP and MAC: \n"..ip.."\n"..mac.."\n :)", buttontext)
+end
+
+function aqdl.test()
+	Script.ShowNotification("Please do not do anything!")
+	Aurora.OpenDVDTray()
+	wait(5) -- Just incase you can fk up the dvd drive, most likely not
+	Aurora.CloseDVDTray()
+	Script.ShowMessageBox("Complete", "Current temps are: \n" .. temps .. "\n :)", "Thanks!", "Fuck off!")
 end
