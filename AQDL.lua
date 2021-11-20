@@ -34,3 +34,15 @@ function aqdl.test()
 	Aurora.CloseDVDTray()
 	Script.ShowMessageBox("Complete", "Current temps are: \n" .. temps .. "\n :)", "Thanks!", "Fuck off!")
 end
+
+function aqdl.getTemps()
+	Script.ShowMessageBox("Current temps are: \n" .. temps .. "\n :)", "Thanks!")
+end
+
+function aqdl.getIP()
+	Script.ShowMessageBox("Current IP is: \n" .. ip .. "\n :)", "Thanks!")
+end
+
+function aqdl.getMAC()
+	Script.ShowMessageBox("Current MAC is: \n" .. mac .. "\n :)", "Ok")
+end
