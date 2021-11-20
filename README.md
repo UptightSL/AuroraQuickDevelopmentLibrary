@@ -12,5 +12,5 @@ getNet will send the IP and MAC in a Aurora Textbox :)
 aqdl.test()
 ```
 test will open and close the dvd tray then send current temps.
-## HALTED   
-:) This project will be haulted until winter break, I wanna try working on something else.
+# NOTE
+Just a quick note, dont expect this at all to be useful to anyone. This is mostly all meant for testing. Feel free to use anything here I won't care.
